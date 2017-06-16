@@ -76,6 +76,7 @@ Limitée à 20 places max par jour
   * Emmanuel Laurent, La MYNE / DAISEE / Energie. Du 1 au 10 juillet. 
   * Chloé Mayere, La MYNE / Astrolabe Expé. Du premier au 8 juillet. Covoit' possible de Lyon.
   * Théo Vital (Biomer) et Marine, du Vendredi 7 soir au Dimanche 9. **Covoit' possible de Rennes.**
+  * Emmanuel Mayoud, 3 au 7 juillet
 * Lieu et horaire de RDV pour le 1/07
   * Adresse du lieu du camp : 8 chemin de kervic, 29920 Névez, 47.8319385,-3.801687,17
   * Horaires: dès 9h30 et toute la journée et soirée
